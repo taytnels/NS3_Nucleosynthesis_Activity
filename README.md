@@ -1,6 +1,6 @@
-# NS3 2023
+# NS3 2024
 
-Git repository containing Thursday's activity for NS3 School 2023
+Git repository containing Thursday's activity for NS3 School 2024
 
 (Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
 
