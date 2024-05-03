@@ -22,4 +22,4 @@ physics properties in the creation of elements.
 
 The Jupyter Notebook can be run from Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/garg-ruchi/NS3_2023_Nucleosynthesis/master?labpath=notebook%2Fmasses.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaurenBalliet/NS3_2024.git/HEAD)
