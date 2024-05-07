@@ -1,4 +1,4 @@
-# NS3 2024
+# NS3 2024 Nucleosynthesis
 
 Git repository containing Thursday's activity for NS3 School 2024
 
