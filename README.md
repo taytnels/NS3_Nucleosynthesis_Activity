@@ -1,6 +1,6 @@
 # NS3 Nucleosynthesis Activity
 
-Git repository containing Thursday's activity for NS3 School 2024
+Git repository containing Thursday's activity for NS3 School.
 
 (Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
 
