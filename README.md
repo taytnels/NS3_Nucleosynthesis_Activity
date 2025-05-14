@@ -3,6 +3,7 @@
 Git repository containing activity for NS3 School.
 
 (Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
+(Updated by Lauren Balliet.)
 
 ## Summary of the _Nucleosynthesis_ lecture
 
